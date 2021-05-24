@@ -1,0 +1,15 @@
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\Davalibi_173311084.Form1.resources
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\vize_odev.Form2.resources
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\Davalibi_173311084.Properties.Resources.resources
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\173311084.csproj.GenerateResource.cache
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\173311084.csproj.CoreCompileInputs.cache
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\bin\Debug\Davalibi_173311084.exe.config
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\bin\Debug\Davalibi_173311084.exe
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\bin\Debug\Davalibi_173311084.pdb
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\Davalibi_173311084.exe
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\Davalibi_173311084.pdb
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\bin\Debug\Davalibi_173311084.exe.manifest
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\bin\Debug\Davalibi_173311084.application
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\173311084.csprojAssemblyReference.cache
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\Davalibi_173311084.exe.manifest
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\Davalibi_173311084.application

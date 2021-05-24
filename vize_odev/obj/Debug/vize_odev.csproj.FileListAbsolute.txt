@@ -1,0 +1,22 @@
+C:\Users\ibooa\source\repos\vize_odev\vize_odev\bin\Debug\vize_odev.exe.config
+C:\Users\ibooa\source\repos\vize_odev\vize_odev\bin\Debug\vize_odev.exe
+C:\Users\ibooa\source\repos\vize_odev\vize_odev\bin\Debug\vize_odev.pdb
+C:\Users\ibooa\source\repos\vize_odev\vize_odev\obj\Debug\vize_odev.csprojAssemblyReference.cache
+C:\Users\ibooa\source\repos\vize_odev\vize_odev\obj\Debug\vize_odev.Form1.resources
+C:\Users\ibooa\source\repos\vize_odev\vize_odev\obj\Debug\vize_odev.Properties.Resources.resources
+C:\Users\ibooa\source\repos\vize_odev\vize_odev\obj\Debug\vize_odev.csproj.GenerateResource.cache
+C:\Users\ibooa\source\repos\vize_odev\vize_odev\obj\Debug\vize_odev.exe
+C:\Users\ibooa\source\repos\vize_odev\vize_odev\obj\Debug\vize_odev.pdb
+C:\Users\ibooa\source\repos\vize_odev\vize_odev\obj\Debug\vize_odev.Form2.resources
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\vize_odev.csprojAssemblyReference.cache
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\vize_odev.Form1.resources
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\vize_odev.Form2.resources
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\vize_odev.csproj.GenerateResource.cache
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\vize_odev.csproj.CoreCompileInputs.cache
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\Davalibi_173311084.Properties.Resources.resources
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\bin\Debug\Ahmet_tarık_davalibi.exe.config
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\bin\Debug\Ahmet_tarık_davalibi.exe
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\bin\Debug\Ahmet_tarık_davalibi.pdb
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\Ahmet_tarık_davalibi.exe
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\Ahmet_tarık_davalibi.pdb
+C:\Users\A.Tarek Dawalibi\Desktop\vize_odev\obj\Debug\Davalibi_173311084.Form1.resources
